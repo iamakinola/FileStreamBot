@@ -22,6 +22,7 @@ async def root_route_handler(_):
     return web.json_response(
         {
             "developer's name": "Olaniyi Akinola",
+            "Follow me on twitter:" "@iamakintech",
             "server_status": "running",
             "uptime": utils.get_readable_time(time.time() - StartTime),
             "telegram_bot": "@" + StreamBot.username,
@@ -33,7 +34,6 @@ async def root_route_handler(_):
                 )
             ),
             "version": __version__,
-             "Follow me on twitter:" "@iamakintech",
         }
     )
 
