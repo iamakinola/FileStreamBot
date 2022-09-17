@@ -16,7 +16,7 @@ class Language(object):
 <i>CLICK ON HELP BUTTON TO GET MORE INFORMATIONS</i>\n
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</u></i>
 <b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
-<b>💰For support and Donation💵</b>\n
+<b>💰For SUPPORT AND DONATIONS💵</b>
 <i>please contact Developer: 👨‍💻@iamakinola</i>\n"""
 
         HELP_TEXT = """
@@ -32,15 +32,18 @@ class Language(object):
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</u></i>
 <b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
 <b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>
-<b>💰For support and Donation💵</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
+<b>💰For SUPPORT AND DONATIONS💵</b>
+<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<i>IS THIS BOT HELPFUL TOOL? </i>: <a href='https://t.me/iamakinola'>[LEAVE A REVIEW]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ BOT NAME : AutoFileStrem</b>\n
+<b>⚜ BOT NAME : AutoFileStream</b>\n
 <b>🔸VERSION : 3.0.3.1</b>\n
 <b>👨‍💻DEVELOPER : olaniyi akinola @iamakinola</b>\n
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 09-July-22 ] 12:36 AM</b>
-"""
+<b>💰For SUPPORT AND DONATIONS💵</b>
+<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<i>IS THIS BOT HELPFUL TOOL? </i>: <a href='https://t.me/iamakinola'>[LEAVE A REVIEW]</a></b>"""
 
         stream_msg_text ="""
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
@@ -48,6 +51,7 @@ class Language(object):
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
 <b>🖥WATCH :</b> <i>{}</i>"""
+
 
         ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
