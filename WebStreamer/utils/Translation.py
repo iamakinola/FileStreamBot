@@ -14,16 +14,22 @@ class Language(object):
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed</i>\n
 <i>CLICK ON HELP BUTTON TO GET MORE INFORMATIONS</i>\n
-<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
-<b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n"""
+<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>
+<b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
+<b>For support and Donation</b>\n
+<i>please contact Developer: @iamakinola</i>\n"""
 
         HELP_TEXT = """
-<i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
-<i>- I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ !.</i>
-<i>- ᴅᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>
-<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
-<b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/{}'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
+<i>I am <b>AutoFileStreamBot</b> As Well As Direct Links Generator. Here i what i do.</i>\n
+<i>1, Send me any file (or) forwarded file from telegram</i>
+<i>2, I will generate direct download link and watch link</i>
+<i>If the file is playable, the watch link will stream the file (.mp4 required)</i>
+<i>3, This link generated do not expire. </i>
+<i>4, Download link with the fastest speed</i>\n
+<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>
+<b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
+<b>For support and Donation</b>\n
+<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : Public Link Generator</b>\n
