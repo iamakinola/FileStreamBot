@@ -33,6 +33,7 @@ async def root_route_handler(_):
                 )
             ),
             "version": __version__,
+             "Follow me on twitter:" "@iamakintech",
         }
     )
 
