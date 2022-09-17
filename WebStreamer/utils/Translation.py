@@ -34,7 +34,7 @@ class Language(object):
 <b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>
 <b>💰For SUPPORT AND DONATIONS💵</b>
 <i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
-<i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'></a></b>"""
+<i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ BOT NAME : AutoFileStream</b>\n
@@ -43,7 +43,7 @@ class Language(object):
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 09-July-21 ] 12:36 AM</b>
 <b>💰For SUPPORT AND DONATIONS💵</b>
 <i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
-<i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]'></a></b>"""
+<i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]</a></b>"""
 
         stream_msg_text ="""
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
