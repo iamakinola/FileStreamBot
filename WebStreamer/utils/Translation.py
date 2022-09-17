@@ -29,7 +29,7 @@ class Language(object):
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed.</i>
 <i>5, Bot supported almost all format.</i></u></i>
-<i><u>FAQ</u></i></u>/n
+<i><b>FAQS</i></b>\n
 <i>Is my files secure? Yes, 100%</i>
 <i>How long before link generated expires? Forever maybe</i>
 <i>What happened when i get Banned? You won't have access to bot again</i>
