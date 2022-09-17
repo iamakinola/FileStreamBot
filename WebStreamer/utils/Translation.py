@@ -13,9 +13,9 @@ class Language(object):
 <i>If the file is playable, the watch link will stream the file (.mp4 required)</i>
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed.</i>\n
-<b><i>CLICK ON <b>HELP</b> BUTTON TO GET MORE INFORMATIONS</i>\n</b>
+<b><i>CLICK ON <b>HELP</b> BUTTON BELOW TO GET MORE INFORMATIONS</i>\n</b>
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</i></u>
-<i>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</i>\n
+<i>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN AND FILE LINK WILL BE REMOVED FROM YOUR SERVER.🔞</i>\n
 <b>💰For SUPPORT AND DONATIONS💵</b>
 <i>Please contact Developer: 👨‍💻@iamakinola</i>\n"""
 
@@ -28,9 +28,14 @@ class Language(object):
 <i><b>Note: Watch link is generated for every file. But if file is not playable(mp4, mp3), watch link wont work.</i><b>
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed.</i>
-<i>5, Bot supported almost all format.</i>\n
+<i>5, Bot supported almost all format.</i></u></i>
+<i><u>FAQ</u></i></u>/n
+<i>Is my files secure? Yes, 100%</i>
+<i>How long before link generated expires? Forever maybe</i>
+<i>What happened when i get Banned? You won't have access to bot again</i>
+<i>What is the maximum file size i can send to bot? Depend on telegram app </i>
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</u></i>
-<b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
+<i>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN AND FILE LINK WILL BE REMOVED FROM YOUR SERVER.🔞</i>\n
 <b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>\n
 <b>💰For SUPPORT AND DONATIONS💵</b>
 <i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
