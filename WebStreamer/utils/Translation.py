@@ -13,9 +13,9 @@ class Language(object):
 <i>If the file is playable, the watch link will stream the file (.mp4 required)</i>
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed.</i>\n
-<i>CLICK ON <b>HELP</b> BUTTON TO GET MORE INFORMATIONS</i>\n
+<b><i>CLICK ON <b>HELP</b> BUTTON TO GET MORE INFORMATIONS</i>\n</b>
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</i></u>
-<b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
+<i>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</i>\n
 <b>💰For SUPPORT AND DONATIONS💵</b>
 <i>Please contact Developer: 👨‍💻@iamakinola</i>\n"""
 
