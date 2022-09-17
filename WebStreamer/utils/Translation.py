@@ -28,12 +28,12 @@ class Language(object):
 <i><b>Note: Watch link is generated for every file. But if file is not playable(mp4, mp3), watch link wont work.</i><b>
 <i>3, This link generated do not expire. </i>
 <i>4, Download link with the fastest speed.</i>
-<i>5, Bot supported almost all format.</i></u></i>
+<i>5, Bot supported almost all format.</i></u></i>\n
 <i><b>FAQS</i></b>\n
-<i>Is my files secure? Yes, 100%</i>
-<i>How long before link generated expires? Forever maybe</i>
-<i>What happened when i get Banned? You won't have access to bot again</i>
-<i>What is the maximum file size i can send to bot? Depend on telegram app </i>
+<i><b>Is my files secure?</b> Yes, 100%</i>
+<i><b>How long before link generated expires?</b> Forever maybe</i>
+<i><b>What happened when i get Banned?</b> You won't have access to bot again</i>
+<i><b>What is the maximum file size i can send to bot?</b> Depend on telegram app </i>
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</u></i>
 <i>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN AND FILE LINK WILL BE REMOVED FROM YOUR SERVER.🔞</i>\n
 <b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>\n
