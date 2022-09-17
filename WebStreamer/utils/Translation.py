@@ -56,8 +56,8 @@ class Language(object):
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
 <b>🖥WATCH :</b> <i>{}</i>\n
-<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
-<i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]'></a></b>"""
+<i>👨‍💻CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
+<i>IS THIS BOT HELPFUL TOOL?</i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]</a></b>"""
 
 
         ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
