@@ -7,12 +7,12 @@ class Language(object):
     class en(object):
         START_TEXT = """
 <i>👋 Hᴇʏ,</i>{}\n
-<i>I am Auto File Stream Bot As Well As Direct Links Generator. Here i what i do.</i>\n
+<i>I am <b>AutoFileStreamBot</b> As Well As Direct Links Generator. Here i what i do.</i>\n
 <i>1, Send me any file (or) forwarded file from telegram</i>
 <i>2, I will generate direct download link and watch link</i>
 <i>If the file is playable, the watch link will stream the file (.mp4 required)</i>
 <i>3, This link generated do not expire. </i>
-<i>4, Download link with the fastest speed</i>
+<i>4, Download link with the fastest speed</i>\n
 <i>CLICK ON HELP BUTTON TO GET MORE INFORMATIONS</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n"""
