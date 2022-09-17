@@ -20,7 +20,7 @@ class Language(object):
 <i>Please contact Developer: 👨‍💻@iamakinola</i>\n"""
 
         HELP_TEXT = """
-<i><b>Helps</i></b>\n
+<i>I am <b>AutoFileStreamBot</b> As Well As Direct Links Generator. Here i what i do.</i>\n
 <i>1, Send me any file (or) forwarded file from telegram.</i>
 <i>Be it Videos, Pictures, Musics, Documents(pdf,txt), Games, Softwares,etc </i>
 <i>2, I will generate direct download link and watch link</i>
