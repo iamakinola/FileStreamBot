@@ -7,7 +7,7 @@ class Language(object):
     class en(object):
         START_TEXT = """
 <i>👋 Hᴇʏ,</i>{}\n
-<i>I'm Auto File Stream Bot As Well as Direct Links Generator</i>\n
+<i>I am Auto File Stream Bot As Well As Direct Links Generator</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n"""
@@ -21,7 +21,7 @@ class Language(object):
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/{}'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : Auto File Stream</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : Public Link Generator</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : 3.0.3.1</b>\n
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-22 ] 12:36 AM</b>
 """
