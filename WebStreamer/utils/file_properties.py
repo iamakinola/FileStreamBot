@@ -87,4 +87,4 @@ async def gen_link(m: Message,log_msg: Messages, from_channel: bool):
     Stream_Text=lang.stream_msg_text.format(file_name, file_size, stream_link, page_link)
     reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🖥STREAM", url=page_link), InlineKeyboardButton("Dᴏᴡɴʟᴏᴀᴅ 📥", url=stream_link)]])
 
-    return reply_markup, Stream_Text, 
+  return reply_markup, Stream_Text, stream_link
