@@ -31,9 +31,9 @@ class Language(object):
 <i>5, Bot supported almost all format.</i>\n
 <i><u>⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚⚠️</u></i>
 <b>🔞SENDING PORNOGRAPHIC CONTENTS TO BOT MAY LEAD TO PERMANENT BAN🔞</b>\n
-<b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>
+<b>Need this Bot for your personal project? <b>: <a href='https://t.me/iamakinola'>[ CONTACT US ]</a></b>\n
 <b>💰For SUPPORT AND DONATIONS💵</b>
-<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
 <i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]</a></b>"""
 
         ABOUT_TEXT = """
@@ -42,7 +42,7 @@ class Language(object):
 <b>👨‍💻DEVELOPER : olaniyi akinola @iamakinola</b>\n
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 09-July-21 ] 12:36 AM</b>
 <b>💰For SUPPORT AND DONATIONS💵</b>
-<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
 <i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]</a></b>"""
 
         stream_msg_text ="""
@@ -51,7 +51,7 @@ class Language(object):
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
 <b>🖥WATCH :</b> <i>{}</i>\n
-<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
+<i>CONTACT DEVELOPER (OR REPORT BUGS</i> <b>: <a href='https://t.me/iamakinola'>[CLICK HERE]</a></b>\n
 <i>IS THIS BOT HELPFUL TOOL? </i>  <b>: <a href='https://t.me/tlgrmcbot?start=autofilestreambot-review'>[LEAVE A REVIEW]'></a></b>"""
 
 
